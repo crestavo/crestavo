@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Rizkie Muhammad Yusuf</h1>
+<p align="center">
+  🚀 Student | 💻 Software Developer | 🌱 Currently sharpening DSA & Clean Architecture!
+</p>
 
-<!--
-**crestavo/crestavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧠 About Me
+- 📍 Based in: Depok, Indonesia | 🗣️ Language: Indonesian, English
+- 🎯 My goal is to become a **Backend Developer** in a tech-driven company.
+- 📚 Currently learning: **Go**.
+- 💼 Open to: Full-time / Remote / Freelance opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- **Languages**: Go, PHP, JavaScript
+- **Backend Frameworks**: Gin, Laravel
+- **Databases**: PostgreSQL, MySQL
+- **Frontend**: HTML, TailwindCSS, React, Vue
+
+---
+
+### 📫 Reach Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/rizkie-muhammad-yusuf-15a51b312/)
+- 📧 muhammadyusufrizkie@gmail.com
+---
+
